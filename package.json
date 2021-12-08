@@ -1,0 +1,17 @@
+{
+  "name": "node-modul_lab_njs",
+  "version": "1.0.0",
+  "description": "node_module_lab",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.18.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

@@ -1,0 +1,954 @@
+# Query: author
+# ContextLines: 1
+
+190 results - 190 files
+
+Lab_1\lab1.8\package.json:
+  10    },
+  11:   "author": "Hell_Phong",
+  12    "license": "ISC",
+
+Lab_1\lab1.9\package.json:
+   9    },
+  10:   "author": "Hell Phong",
+  11    "license": "ISC",
+
+Lab_10\Lab10_4\package.json:
+  32    },
+  33:   "author": "Hell_Phong",
+  34    "license": "ISC"
+
+Lab_10\NJS101x_01-A_VN-LAB10_1\package.json:
+   9    },
+  10:   "author": "Hell_Phong",
+  11    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_10\package.json:
+   9    },
+  10:   "author": "Phong",
+  11    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_11\package.json:
+   9    },
+  10:   "author": "Phong",
+  11    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_11\controllers\shop.js:
+  180      if (order.user.userId.toString() !== req.user._id.toString()) {
+  181:       return next(new Error('Unauthorized'))
+  182      }
+
+Lab_10\NJS101x_01-A_VN-LAB10_12\package.json:
+   9    },
+  10:   "author": "Phong",
+  11    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_12\controllers\shop.js:
+  180      if (order.user.userId.toString() !== req.user._id.toString()) {
+  181:       return next(new Error('Unauthorized'))
+  182      }
+
+Lab_10\NJS101x_01-A_VN-LAB10_13\package.json:
+   9    },
+  10:   "author": "Phong",
+  11    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_13\controllers\shop.js:
+  181      if (order.user.userId.toString() !== req.user._id.toString()) {
+  182:       return next(new Error('Unauthorized'))
+  183      }
+
+Lab_10\NJS101x_01-A_VN-LAB10_14\package.json:
+   9    },
+  10:   "author": "Phong",
+  11    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_14\controllers\shop.js:
+  181      if (order.user.userId.toString() !== req.user._id.toString()) {
+  182:       return next(new Error('Unauthorized'))
+  183      }
+
+Lab_10\NJS101x_01-A_VN-LAB10_15\package.json:
+   9    },
+  10:   "author": "Phong",
+  11    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_15\controllers\shop.js:
+  181      if (order.user.userId.toString() !== req.user._id.toString()) {
+  182:       return next(new Error('Unauthorized'))
+  183      }
+
+Lab_10\NJS101x_01-A_VN-LAB10_16\package.json:
+   9    },
+  10:   "author": "Phong",
+  11    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_16\controllers\shop.js:
+  181      if (order.user.userId.toString() !== req.user._id.toString()) {
+  182:       return next(new Error('Unauthorized'))
+  183      }
+
+Lab_10\NJS101x_01-A_VN-LAB10_17\package.json:
+   9    },
+  10:   "author": "Phong",
+  11    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_17\controllers\shop.js:
+  181      if (order.user.userId.toString() !== req.user._id.toString()) {
+  182:       return next(new Error('Unauthorized'))
+  183      }
+
+Lab_10\NJS101x_01-A_VN-LAB10_18\package.json:
+   9    },
+  10:   "author": "Phong",
+  11    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_18\controllers\shop.js:
+  187      if (order.user.userId.toString() !== req.user._id.toString()) {
+  188:       return next(new Error('Unauthorized'))
+  189      }
+
+Lab_10\NJS101x_01-A_VN-LAB10_19\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_19\controllers\shop.js:
+  187      if (order.user.userId.toString() !== req.user._id.toString()) {
+  188:       return next(new Error('Unauthorized'))
+  189      }
+
+Lab_10\NJS101x_01-A_VN-LAB10_2\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_20\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_20\controllers\shop.js:
+  197        if (order.user.userId.toString() !== req.user._id.toString()) {
+  198:         return next(new Error("Unauthorized"));
+  199        }
+
+Lab_10\NJS101x_01-A_VN-LAB10_22\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_22\controllers\shop.js:
+  215        if (order.user.userId.toString() !== req.user._id.toString()) {
+  216:         return next(new Error("Unauthorized"));
+  217        }
+
+Lab_10\NJS101x_01-A_VN-LAB10_3\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_5\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_6\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_7\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_8\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_10\NJS101x_01-A_VN-LAB10_9\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_2\lab2.1\package.json:
+  14    },
+  15:   "author": "",
+  16    "license": "ISC"
+
+Lab_2\lab2.10\package.json:
+  15    },
+  16:   "author": "",
+  17    "license": "ISC"
+
+Lab_2\lab2.11\package.json:
+  15    },
+  16:   "author": "",
+  17    "license": "ISC"
+
+Lab_2\lab2.12\package.json:
+  15    },
+  16:   "author": "",
+  17    "license": "ISC"
+
+Lab_2\lab2.13\package.json:
+  15    },
+  16:   "author": "",
+  17    "license": "ISC"
+
+Lab_2\lab2.14\package.json:
+  15    },
+  16:   "author": "",
+  17    "license": "ISC"
+
+Lab_2\lab2.2\package.json:
+  14    },
+  15:   "author": "",
+  16    "license": "ISC"
+
+Lab_2\lab2.3\package.json:
+  14    },
+  15:   "author": "",
+  16    "license": "ISC"
+
+Lab_2\lab2.4\package.json:
+  14    },
+  15:   "author": "",
+  16    "license": "ISC"
+
+Lab_2\lab2.5\package.json:
+  15    },
+  16:   "author": "",
+  17    "license": "ISC"
+
+Lab_2\lab2.6\package.json:
+  15    },
+  16:   "author": "",
+  17    "license": "ISC"
+
+Lab_2\lab2.7\package.json:
+  15    },
+  16:   "author": "",
+  17    "license": "ISC"
+
+Lab_2\lab2.8\package.json:
+  15    },
+  16:   "author": "",
+  17    "license": "ISC"
+
+Lab_2\lab2.9\package.json:
+  15    },
+  16:   "author": "",
+  17    "license": "ISC"
+
+Lab_3\Lab3.1\package.json:
+  15    },
+  16:   "author": "",
+  17    "license": "ISC"
+
+Lab_3\lab3.10\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_3\Lab3.2\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_3\Lab3.3\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_3\Lab3.4\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_3\Lab3.5\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_3\Lab3.6\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_3\lab3.7\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_3\Lab3.8\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_3\Lab3.9\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.1\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.10\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.11\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.12\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.13\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.15\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.16\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.17\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.18\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.19\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.2\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.20\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.21\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.3\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.4\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.5\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.6\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.8\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+Lab_4\lab4.9\package.json:
+  18    },
+  19:   "author": "",
+  20    "license": "ISC"
+
+lab_5\NJS101x_01-A_VN-LAB05_1\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_10\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_11\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_12\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_13\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_14\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_15\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_16\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_17\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_18\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_19\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_2\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_20\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_21\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_22\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_23\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_24\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_25\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_26\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_27\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_28\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_3\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_4\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_5\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_6\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_7\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_8\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+lab_5\NJS101x_01-A_VN-LAB05_9\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\12-removing-deleted-items-from-the-cart\12-removing-deleted-items-from-the-cart\package.json:
+  10    },
+  11:   "author": "Maximilian Schwarzmüller",
+  12    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_1\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_10\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_11\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_12\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_13\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_14\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_15\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_16\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_17\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_18\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_19\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_2\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_20\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_21\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_22\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_23\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_24\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_3\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_4\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_5\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_6\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_7\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_8\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_6\NJS101x_01-A_VN-LAB06_9\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\Lab7_12\package.json:
+  23    },
+  24:   "author": "",
+  25    "license": "ISC"
+
+Lab_7\NJS101x_01-A_VN-LAB07_1\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_10\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_11\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_13\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_14\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_15\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_16\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_17\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_2\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_3\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_4\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_5\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_6\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_7\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_8\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_7\NJS101x_01-A_VN-LAB07_9\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_1\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_10\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_11\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_14\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_15\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_16\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_17\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_18\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_19\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_2\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_21\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_22\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_23\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_24\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_25\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_26\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_27\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_3\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_4\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_5\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_6\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_7\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_8\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_8\NJS101x_01-A_VN-LAB08_9\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_1\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_10\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_11\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_12\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_14\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_15\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_16\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_17\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_18\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_19\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_2\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_3\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_4\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_5\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_6\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_7\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_8\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_9\NJS101x_01-A_VN-LAB09_9\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
+
+Lab_lỗi\NJS101x_01-A_VN-LAB08_28\package.json:
+  13    },
+  14:   "author": "huyen",
+  15    "license": "ISC",
